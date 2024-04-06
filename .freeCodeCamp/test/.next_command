@@ -64,3 +64,7 @@ clear
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+clear
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ a =~ [0-9] ]]
