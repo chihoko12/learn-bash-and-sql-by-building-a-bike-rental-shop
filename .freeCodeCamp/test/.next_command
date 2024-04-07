@@ -98,3 +98,7 @@ echo '28 | Mountain'
 echo '28 | Mountain'
 echo '28 | Mountain'
 echo '28 | Mountain'
+clear
+./bike-shop.sh
+clear
+./bike-shop.sh
