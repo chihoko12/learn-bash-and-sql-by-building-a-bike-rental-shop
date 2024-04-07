@@ -205,3 +205,6 @@ man sed
 echo "$(echo ' M e ' | sed -r 's/^ *| *$//g')."
 clear
 ./bike-shop.sh
+./bike-shop.sh
+clear
+./bike-shop.sh
