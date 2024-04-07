@@ -225,3 +225,4 @@ clear
 git remote -v
 git remote set-url origin "https://github.com/chihoko12/learn-bash-and-sql-by-building-a-bike-rental-shop"
 git remote -v
+pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
