@@ -108,3 +108,6 @@ echo ' M e '
 echo ' M e '
 echo ' M e '
 echo "$(echo ' M e ')."
+__vsc_prompt_cmd_original
+echo "$(echo ' M e ')."
+echo "$(echo ' M e ' | sed 's/ //')."
